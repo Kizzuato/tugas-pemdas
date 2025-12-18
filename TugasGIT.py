@@ -74,3 +74,4 @@ for data in data_panen.values():
     else:
         print(f"{nama} : Kondisi baik")
 
+print("Program Selesai")
