@@ -75,3 +75,4 @@ for data in data_panen.values():
         print(f"{nama} : Kondisi baik")
 
 print("Program Selesai !")
+print("Terimakasih")
